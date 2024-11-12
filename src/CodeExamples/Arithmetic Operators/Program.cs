@@ -31,7 +31,7 @@ v = x <= 5;
 v = x == 5;
 v = x != 5;
 
-Console.WriteLine();
+Console.WriteLine("same calculation but big diffrence in data type issues");
 Console.WriteLine(16.8f / 4.1f);   // output: 4.097561                      f = float
 Console.WriteLine(16.8d / 4.1d);   // output: 4.09756097560976              d = double 
 Console.WriteLine(16.8m / 4.1m);   // output: 4.09756097560975609756097560  m = decimel

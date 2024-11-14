@@ -47,3 +47,8 @@ for (int i = 0; i<count; i++)
 }
 Console.Write("Sumation of the result = " +  sum);
 
+/*
+ output is like  = 1,,,,,,,, 5 ,,,,4 = 10
+ */
+
+// this is the formate where i do not need to menation how many number to be taken. 
